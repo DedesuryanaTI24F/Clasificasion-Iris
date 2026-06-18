@@ -7,13 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1eXFd5bfFjrOodu2Z8ABOnpqGUGxub7xg
 """
 
-pip install streamlit
-
-pip install pandas
-
-pip install scikit-learn
-
-pip show pandas scikit-learn
 
 import streamlit as st
 import pandas as pd
