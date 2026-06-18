@@ -1,0 +1,3 @@
+Stremlit = 1.58.0
+Pandas = 1.17.0
+Scikit-learn = 3.6.0
